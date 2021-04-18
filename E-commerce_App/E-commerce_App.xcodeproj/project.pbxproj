@@ -41,6 +41,7 @@
 		1FD220F0262C161000023154 /* RatingsSizesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD220EF262C161000023154 /* RatingsSizesDetailView.swift */; };
 		1FD220F3262C189500023154 /* QuantityFavouriteDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD220F2262C189500023154 /* QuantityFavouriteDetailView.swift */; };
 		1FD220F6262C1AB900023154 /* AddToCartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD220F5262C1AB900023154 /* AddToCartDetailView.swift */; };
+		1FD220F9262C1C8500023154 /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD220F8262C1C8500023154 /* Shop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		1FD220EF262C161000023154 /* RatingsSizesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingsSizesDetailView.swift; sourceTree = "<group>"; };
 		1FD220F2262C189500023154 /* QuantityFavouriteDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuantityFavouriteDetailView.swift; sourceTree = "<group>"; };
 		1FD220F5262C1AB900023154 /* AddToCartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToCartDetailView.swift; sourceTree = "<group>"; };
+		1FD220F8262C1C8500023154 /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,6 +221,7 @@
 			children = (
 				1FBE9B4A261B284900973A53 /* Constant.swift */,
 				1FD220EC262C14B500023154 /* CustomShape.swift */,
+				1FD220F8262C1C8500023154 /* Shop.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -320,6 +323,7 @@
 				1FBE9B58261B4D8400973A53 /* PlayerModel.swift in Sources */,
 				1FD220ED262C14B500023154 /* CustomShape.swift in Sources */,
 				1FBE9B79261B5CDF00973A53 /* BrandModel.swift in Sources */,
+				1FD220F9262C1C8500023154 /* Shop.swift in Sources */,
 				1FBE9B70261B557300973A53 /* TitleView.swift in Sources */,
 				1FBE9B73261B573200973A53 /* ProductModel.swift in Sources */,
 				1FD220F3262C189500023154 /* QuantityFavouriteDetailView.swift in Sources */,
